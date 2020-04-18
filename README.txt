@@ -1,0 +1,3 @@
+A collection of basic concurrency problems implemented in both C++ and Go to compare implementation strategies as well as performance characteristics. Results of these comparisons can be found in ./Report
+
+./Logoot contains a Go implementation of the Logoot data structure (introduced in https://hal.inria.fr/inria-00432368/document) which is a CRDT for distributed collaborative document editing. The implementation contains a basic console-based editor which can be networked together with other active editors for collaborative editing.
